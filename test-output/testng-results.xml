@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68733" started-at="2021-02-14T10:19:55Z" finished-at="2021-02-14T10:21:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68733" started-at="2021-02-14T10:19:55Z" finished-at="2021-02-14T10:21:03Z">
+      <class name="com.pj.DataProvider.DataProvider.AppTest">
+        <test-method status="PASS" signature="ExcelOpration()[pri:0, instance:com.pj.DataProvider.DataProvider.AppTest@2145433b]" name="ExcelOpration" is-config="true" duration-ms="4481" started-at="2021-02-14T15:49:55Z" finished-at="2021-02-14T15:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelOpration -->
+        <test-method status="PASS" signature="OpenBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.pj.DataProvider.DataProvider.AppTest@2145433b]" name="OpenBrowser" duration-ms="64006" started-at="2021-02-14T15:49:59Z" data-provider="Data" finished-at="2021-02-14T15:51:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[parag]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jadhav]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[parag03@gmailcom]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[parag03@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[parag123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[parag123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9865238956]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[February]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[1997]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+      </class> <!-- com.pj.DataProvider.DataProvider.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
